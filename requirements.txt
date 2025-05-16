@@ -1,8 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+pillow
+rasterio
 folium
 ipywidgets
 voila
-scipy
-matplotlib
-numpy
-pillow
-rasterio
